@@ -7,5 +7,6 @@ include("compress.jl")
 include("util.jl")
 include("eval.jl")
 include("grad.jl")
+include("cheby.jl")
 
 end # module Tensor_FixedSeedMC
